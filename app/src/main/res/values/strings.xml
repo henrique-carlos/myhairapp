@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyHairApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_act_opcoes_produtos">Opcoes de Produtos</string>
+
+    <string name="sobreApp">Sobre o App:</string>
+    <string name="sobreApp2">MyHairApp é um aplicativo exclusivamente para homens que desejam manter o estilo no meio de tantas tendências do mundo contemporâneo. Com dicas dos mais inovadores produtos produtos para cabelo, MyHairApp promete ser o seu melhor amigo para te ajudar a encontrar o que você precisa para aquele penteado perfeito.</string>
+
+    <string name="txtGel">GEL</string>
+    <string name="txtPomada">POMADA</string>
+    <string name="txtMousse">Mousse</string>
+    <string name="title_activity_act_tela_produto">ActTelaProduto</string>
+
+    <string name="sobreGel">O bom e velho gel é conhecido por seu brilho marcante e aspecto molhado. Ele pode ser aplicado diretamente nos cabelos molhados e finalizados com um pente ou escova. Assim como a pasta, a fixação do gel é alta e de longa duração. Vale ficar atento a sua composição: evite produtos que contenham álcool em sua fórmula. Ele resseca os fios, danifica o couro cabeludo e pode influenciar no aparecimento de caspa e na queda de cabelo.</string>
+    <string name="sobreMousse">Com textura leve, o mousse lembra uma espuma. O produto é ideal para quem tem cabelo fino ou ralo, pois dá volume. Além disso, é uma excelente opção para quem tem cabelos crespos ou cacheados, pois deixa a cabeleira sob controle com aspecto natural. A aplicação deve ser realizada em cabelos molhados e o truque é utilizar uma pequena quantidade, para evitar que esse ar natural desapareça pelo excesso de produto.</string>
+    <string name="sobrePomada">Esse produto tem como base óleos, que podem ser naturais ou derivados do petróleo, mas inclui também uma pequena quantidade de cera e algum tipo de fragrância. As pomadas costumam dar efeito mais natural aos cabelos, sem marcar tanto o corte e evitando o aspecto molhado. Sua fixação é alta e, por isso, costumam ser difíceis para sair na hora da lavagem. Por isso, vale usar um shampoo anti-resíduos.</string>
+    <string name="title_activity_act_swipe_view">ActSwipeView</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_swipe_layout">swipe_layout</string>
+
+</resources>
